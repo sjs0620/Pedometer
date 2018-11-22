@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pedometer</string>
+    <string name="textViewTitle">만 보 계</string>
+    <string name="buttonReset">Reset</string>
+</resources>
